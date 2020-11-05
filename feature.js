@@ -2,6 +2,7 @@
 <html>
   <body>
 
+    <h1>My Web Page<h1>
     <h2>Javascript is cool</h2>
     <p>My First Paragraph.</p>
 
